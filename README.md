@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋
+ I'm Hieu and i'm Internship JS!
+
 
 <!--
 **ndhieu2701/ndhieu2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
