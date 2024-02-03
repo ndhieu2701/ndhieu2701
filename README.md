@@ -1,5 +1,5 @@
 ### Hi 👋
- I'm Hieu and i'm Internship JS!
+ I'm Hieu and i'm Fresher JS Developer!
 
 
 <!--
