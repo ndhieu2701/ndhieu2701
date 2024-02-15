@@ -1,7 +1,7 @@
 ### Hi 👋
  I'm Hieu and i'm Fresher JS Developer!
-
-
+<span>Visitor</span>
+<img src="https://profile-counter.glitch.me/ndhieu2701/count.svg" alt=""/>
 <!--
 **ndhieu2701/ndhieu2701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
