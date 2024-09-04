@@ -1,5 +1,5 @@
 ### Hi 👋
- I'm Hieu and i'm Fresher JS Developer!
+ I'm Hieu and i'm Junior JS Developer!
  <br>
 <span>Visitor</span>
 <img src="https://profile-counter.glitch.me/ndhieu2701/count.svg" alt=""/>
