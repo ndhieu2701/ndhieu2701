@@ -31,53 +31,7 @@
 * Zustand
 * Redux Toolkit
 
-### ⚙️ Architecture & Patterns
 
-* Component-driven architecture
-* Custom hooks & abstraction
-* Code splitting & lazy loading
-* Atomic design (basic)
-
----
-
-## ⚡ What I Focus On
-
-* 🧩 Designing **scalable frontend architecture**
-* 🔁 Building **reusable & extensible component systems**
-* 🚀 Optimizing **performance (render, bundle, UX)**
-* 🧠 Improving **developer experience (DX)**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndhieu2701&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhieu2701&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ndhieu2701&theme=tokyo-night" />
-</p>
-
----
-
-## 📫 Contact
-
-* 📧 Email: *(your email)*
-* 💼 LinkedIn: *(your linkedin)*
-
----
-
-## 👀 Visitors
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ndhieu2701/count.svg" />
-</p>
 
 ---
 
